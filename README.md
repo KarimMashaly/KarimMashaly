@@ -17,7 +17,7 @@ A Computer Science student focused on **.NET Backend Development** and building 
 ## 🛠 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,sql,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,git,github,vscode,linux,docker&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -28,22 +28,20 @@ A Computer Science student focused on **.NET Backend Development** and building 
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/AutoMapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-### ⚡ Real-Time & UI
-- **SignalR** — real-time communication in .NET apps
-- **Blazor** — building interactive web UIs with C#
+### 🐳 Docker
+- Containerizing .NET applications
+- Writing Dockerfiles and managing containers
 
-### 🏗️ Architecture & Scalability
-- **Microservices** — designing distributed systems
-- **CI/CD Pipelines** — automating build, test, and deployment
-
-### ⚛️ Frontend
-- **React** — building modern frontend interfaces
+### 🏗️ Clean Architecture
+- Structuring projects for scalability and maintainability
+- Applying SOLID principles across all layers
 
 ---
 
@@ -53,13 +51,13 @@ A Computer Science student focused on **.NET Backend Development** and building 
 - Build interactive web UIs without leaving the .NET ecosystem
 - Integrate with existing ASP.NET Core APIs
 
-### 2. SignalR
-- Implement real-time features (notifications, live dashboards)
-- Understand WebSocket-based communication patterns
-
-### 3. CI/CD
+### 2. CI/CD
 - Set up automated pipelines using GitHub Actions
 - Automate testing, building, and deployment workflows
+
+### 3. SignalR
+- Implement real-time features (notifications, live dashboards)
+- Understand WebSocket-based communication patterns
 
 ### 4. Microservices
 - Decompose monolithic APIs into independent services
